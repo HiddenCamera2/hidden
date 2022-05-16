@@ -1,5 +1,6 @@
-{	
-	"version": "3.6",
-	"showAds": false,
-	"showOpenAd": false
-	}
+{
+"version": "3.6",
+"showAds": false,
+"showOpenAd": false,
+"subscribeButtonTitle": "try_for_free"
+}
