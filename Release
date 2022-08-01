@@ -1,6 +1,6 @@
 {
-"version": "4.2",
-"showAds": true,
-"showOpenAd": true,
+"version": "4.3",
+"showAds": false,
+"showOpenAd": false,
 "subscribeButtonTitle": "subscribe"
 }
