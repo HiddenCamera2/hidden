@@ -1,6 +1,6 @@
 {
 "version": "5.8",
-"showAds": false,
+"showAds": true,
 "showOpenAd": true,
 "subscribeButtonTitle": "subscribe"
 }
